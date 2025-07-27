@@ -2,9 +2,9 @@ import React from 'react';
 
 function App() {
   return (
-    <div style={{ padding: 20 }}>
+    <div style={{ padding: '2rem', fontFamily: 'Arial' }}>
       <h1>Chendering Inn Invoice</h1>
-      <p>This is a simple invoice app. You can now generate and print invoices.</p>
+      <p>This is a simple PWA invoice app.</p>
     </div>
   );
 }
